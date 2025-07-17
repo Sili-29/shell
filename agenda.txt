@@ -1,0 +1,14 @@
+Variable
+Operator
+Condition
+Loop
+Function
+Error handling
+Email notification
+Server backuops, maintanance, restore of data bases using CRON
+CRON - scheduling
+
+Advanced scripting and debugging- AWK, scd, grep, python
+Real world Applications and Integration _ DOcker, github,makefile, how to give permissions
+Shell mastery and continuous Learning
+Projects 
