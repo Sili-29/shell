@@ -1,0 +1,14 @@
+What is Linux Shell
+
+A shell provides an environment to an user to execute commands and interact with the kernel.
+
+Types of Shell:-
+        bash
+        sh
+        ksh
+        tsh
+        fish
+        zsh - in macbook it is by default
+
+
+
