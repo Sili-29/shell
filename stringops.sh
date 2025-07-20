@@ -9,9 +9,11 @@ echo "upper case is ${a^^}"
 echo "lower case is ------ ${a,,}"
 
 #to replace a string
+
 b=${a/World/Universe}
 echo "new variable is ---- $b"
 
 
 #to slice a string
-echo "After slicing ----- ${a:4:8}"
+echo "After slicing ----- ${a:4:7}"
+echo "after slicilng ---- ${a:1:3}"
